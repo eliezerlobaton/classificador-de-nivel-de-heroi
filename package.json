@@ -1,0 +1,8 @@
+{
+  "name": "classificador-de-nivel-de-heroi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/eliezerlobaton/classificador-de-nivel-de-heroi.git",
+  "author": "Eliezer Lobaton <eliezerlobaton39@gmail.com>",
+  "license": "MIT"
+}
